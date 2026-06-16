@@ -7,3 +7,4 @@ Three GitHub skills practiced:
 1. Creating branches and managing versions.
 2. Writing descriptive commit messages.
 3. Opening and merging Pull Requests.
+edt: the small change has been made
